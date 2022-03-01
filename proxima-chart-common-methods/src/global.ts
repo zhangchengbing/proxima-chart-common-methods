@@ -1,0 +1,10 @@
+export const BASIC_PIE_CHART = 'basic-pie-chart';
+export const BASIC_BAR_CHART = 'basic-bar-chart';
+export const BASIC_LINE_CHART = 'basic-line-chart';
+export const BASIC_TABLE_CHART = 'basic-table-chart';
+export const BASIC_COUNT_CHART = 'basic-count-chart';
+export const BASIC_ITEM_LIST_CHART = 'basic-item-list-chart';
+export const BASIC_ITEM_STATISTICS_CHART = 'basic-item-statistics-chart';
+export const BASIC_ITEM_COUNT_CHART = 'basic-item-count-chart';
+export const BASIC_DEMAND_SPEED_CHART = 'basic-demand-speed-chart';
+export const HS_HEAP_BAR_CHART = 'hs-heap-bar-chart';
