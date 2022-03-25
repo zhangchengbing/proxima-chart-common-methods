@@ -1,11 +1,8 @@
-import {
-  BASIC_COUNT_CHART,
-  BASIC_ITEM_COUNT_CHART,
-  BASIC_ITEM_LIST_CHART,
-} from './global';
-import { OptionValue } from './types';
+
 import { message } from 'antd';
 import { isEmpty } from 'lodash';
+import { BASIC_ITEM_COUNT_CHART, BASIC_ITEM_LIST_CHART, BASIC_COUNT_CHART } from '../global';
+import { OptionValue } from '../types';
 
 export const isSaveChart = (
   enableSave: boolean,
